@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="455a7bba-4211-40f8-9053-a8817c5d5b59" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/frontend/src/apiConfig.js" beforeDir="false" afterPath="$PROJECT_DIR$/frontend/src/apiConfig.js" afterDir="false" />
-    </list>
+    <list default="true" id="455a7bba-4211-40f8-9053-a8817c5d5b59" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
